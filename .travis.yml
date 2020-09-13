@@ -7,7 +7,7 @@ os:
   - osx
 
 # Use Ubuntu 14.04 LTS (Trusty) as the Linux testing environment.
-dist: xenial
+dist: bionic
 
 env:
   - DXC_BUILD_TYPE=Release
